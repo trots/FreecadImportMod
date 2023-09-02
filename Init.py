@@ -1,0 +1,2 @@
+import FreecadImportMod
+FreecadImportMod.addExtension()
